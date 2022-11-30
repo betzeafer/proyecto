@@ -1,0 +1,37 @@
+body {background-color: rgb(255, 0, 149);}
+
+p {
+    color: rgb(255, 108, 194);
+    font-size: 5vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.inicio {text-align: center;
+    font-size: 2vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 165, 230);
+}
+
+ul {margin-left: 125px;}
+
+.ins { 
+    color: rgb(255, 108, 200);
+    text-align: initial;
+    font-size: 4vw;
+}
+.prog {
+    color: rgb(255, 108, 200);
+    text-align: initial;
+    font-size: 3vw;
+
+}
+.formación {
+    display: flex;
+    font-size: 2vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    color: rgb(0, 0, 0);
+}
